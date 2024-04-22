@@ -1,7 +1,6 @@
-import React from 'react'
 import { Game } from '../hooks/useGames'
 import { Card, CardBody, HStack, Heading, Image, Text } from '@chakra-ui/react'
-import PlatFormIconList from './PlatFormIconList'
+import PlatFormIconList from './PlatformIconList'
 import CriticScore from './CriticScore'
 import getCroppedImageUrl from '../services/image-url'
 import Emoji from './Emoji'
